@@ -1,16 +1,65 @@
-# my_app
+🎬 IDM Movie Searcher
 
-A new Flutter project.
+A Flutter iOS app built to help users quickly search, discover, and explore movies with an elegant and smooth interface. Powered by Flutter’s cross-platform UI framework, this app focuses on delivering a fast, native-like experience for iOS users.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+🔎 Movie Search – Find movies by title, genre, or release year.
 
-A few resources to get you started if this is your first Flutter project:
+📄 Detailed Movie Info – View descriptions, ratings, trailers, and cast.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🌙 Dark Mode Support – Seamless switching between light and dark UI.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💾 Save Favorites – Bookmark movies for later viewing.
+
+🎥 iOS Optimized UI – Cupertino-styled widgets for a native iOS feel.
+
+⚡ Fast & Lightweight – Powered by Flutter and REST APIs.
+
+🛠️ Tech Stack
+
+Frontend: Flutter (Dart)
+
+API: TMDb API
+ (or any movie DB API)
+
+State Management: Provider / Riverpod (or Bloc, depending on your choice)
+
+Platform: iOS (can be extended to Android)
+
+📱 Screenshots
+
+(Add screenshots/gifs of your app once you have UI ready)
+
+Search Page	Movie Details	Favorites
+
+	
+	
+⚡ Getting Started
+Prerequisites
+
+Install Flutter SDK
+
+Install Xcode for iOS development
+
+Create a TMDb API key
+
+Run the app
+flutter pub get
+flutter run
+
+📖 Resources
+
+Flutter for iOS developers
+
+Cupertino Widgets
+
+TMDb API Docs
+
+✨ Future Enhancements
+
+🔔 Push Notifications for new movie releases
+
+🧑‍🤝‍🧑 Social sharing of favorite movies
+
+🎬 Watchlist sync across devices
